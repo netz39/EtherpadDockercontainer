@@ -1,0 +1,19 @@
+# Copy to .evn and set values
+
+# Set the database user here
+# ! Make sure both entries match!
+ETHERPAD_DB_USER=etherpad
+POSTGRES_USER=etherpad
+
+# Set the database password here
+# ! Make sure both entries match!
+ETHERPAD_DB_PASSWORD=
+POSTGRES_PASSWORD=
+
+# Etherpad admin user
+ETHERPAD_ADMIN_USER=admin
+ETHERPAD_ADMIN_PASSWORD=
+
+# What is the name of the postgres db?
+POSTGRES_DB=etherpad
+
