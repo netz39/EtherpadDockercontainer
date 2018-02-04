@@ -10,7 +10,7 @@ If there is an existing database, add the psql dump to initdb.d before docker-co
 
 ## Usage
 
-Runs Etherpad on port 9001. Use a transparent proxy of your choice to connect to a path on a HTTPS service.
+Runs Etherpad on port 9001. Use a reverse proxy of your choice to connect to a path on a HTTPS service.
 
 ## Contribution
 
